@@ -1,0 +1,50 @@
+Package: lingmo-plymouth
+Version: 2.0.0
+Architecture: all
+Maintainer: Lingmo OS Team <team@lingmo.org>
+Installed-Size: 148
+Priority: optional
+Section: misc
+Filename: pool/experimental/l/lingmo-plymouth/lingmo-plymouth_2.0.0_all.deb
+Size: 33500
+SHA256: 94be9fd503b00ae4ba1ac2d7822b1c11ed02e93f546c6b13194290b52c528f6a
+SHA1: 0e9b1446c98fc95f415afb6f7108d65ea8f49da3
+MD5sum: a7a9cb289e62982be9c59074a7db220e
+Description: Plymouth theme for LingmoOS.
+
+Package: lingmo-systemicons
+Version: 2.0.3-5
+Architecture: all
+Maintainer: Lingmo OS <lingmo@lingmo.org>
+Installed-Size: 126701
+Homepage: https://lingmo.org
+Priority: optional
+Section: x11
+Filename: pool/experimental/l/lingmo-systemicons/lingmo-systemicons_2.0.3-5_all.deb
+Size: 7537340
+SHA256: 9d6d15c23a51844d55af7bb1cb16adeca918caa78e2f83b09f9017f6229ddc6c
+SHA1: 8c8b5f7f3034411d0545d32ae63ce92be7bfb1dd
+MD5sum: 962adafb3f7d13cda06af269f35ec208
+Description: System software icon for LingmoOS
+
+Package: neofetch
+Version: 8.0
+Architecture: all
+Maintainer: Lingmo OS Team <team@lingmo.org>
+Installed-Size: 353
+Recommends: chafa, caca-utils, imagemagick, jp2a, libsixel-bin, w3m-img, pciutils
+Multi-Arch: foreign
+Homepage: https://github.com/LingmoOS/neofetch
+Priority: optional
+Section: utils
+Filename: pool/experimental/n/neofetch/neofetch_8.0_all.deb
+Size: 81176
+SHA256: 2ad31f9508a1e6b7f6b5114b21d840f1673fc879797693d1a5945292b6081771
+SHA1: ff4cbc5f02010376a33334d6b079ae40fc095130
+MD5sum: df00fe3c93524e31817a424bbec873e2
+Description: Shows Linux System Information with Distribution Logo
+ Neofetch is a cross-platform and easy-to-use system information
+ command line script that collects your Linux system information
+ and display it on the terminal next to an image, it could be your
+ distributions logo or any ascii art of your choice.
+

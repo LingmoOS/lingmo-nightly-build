@@ -1,0 +1,6 @@
+Codename: nightly
+Architectures: amd64 arm64 i386 source
+Components: experimental
+SignWith: 8080B1001283D77576038BA176F456DAE24DBE14
+Description: lingmo-nightly-build
+

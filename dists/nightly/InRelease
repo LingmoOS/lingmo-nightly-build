@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: nightly
+Date: Sat, 30 Nov 2024 16:42:06 UTC
+Architectures: amd64 arm64 i386
+Components: experimental
+Description: lingmo-nightly-build
+MD5Sum:
+ bb71cf46f07c9729bba6f72941d283c9 52205 experimental/binary-amd64/Packages
+ 3a43efbc16cb4636db800a570d124ddf 13879 experimental/binary-amd64/Packages.gz
+ 050479051a1bea110fff7b5246898304 78 experimental/binary-amd64/Release
+ a3362ad123ba21edf3616fce45d08d8a 1792 experimental/binary-arm64/Packages
+ 19d8ab60bccb56c9db1f80155d43382c 896 experimental/binary-arm64/Packages.gz
+ 02df1496c807dd096d629e3f8116a057 78 experimental/binary-arm64/Release
+ a3362ad123ba21edf3616fce45d08d8a 1792 experimental/binary-i386/Packages
+ 19d8ab60bccb56c9db1f80155d43382c 896 experimental/binary-i386/Packages.gz
+ 8262fdf35d00203f6040837c726191fb 77 experimental/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 experimental/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 experimental/source/Sources.gz
+ 03260fcece66fd1e27d40f04cb58e5c9 79 experimental/source/Release
+SHA1:
+ 2fe592a80167f23617b2fb582394f129919c2507 52205 experimental/binary-amd64/Packages
+ f2c8cbe078f26bb50b460a0bf479caa88b1690bd 13879 experimental/binary-amd64/Packages.gz
+ 2a5f7a3ca2b8ec5a1e53f5d065cc97570d41f5ca 78 experimental/binary-amd64/Release
+ cb107c6c8871f33586455dd1d09f22e57e0d197b 1792 experimental/binary-arm64/Packages
+ 7ee5bbe428746a12e93fe08eed0e29d2ff26c274 896 experimental/binary-arm64/Packages.gz
+ 69e8c6f907c7961f271116c52c6177436799f5d2 78 experimental/binary-arm64/Release
+ cb107c6c8871f33586455dd1d09f22e57e0d197b 1792 experimental/binary-i386/Packages
+ 7ee5bbe428746a12e93fe08eed0e29d2ff26c274 896 experimental/binary-i386/Packages.gz
+ a457ad7bb2245c8a9542269d0530af4aa1e02900 77 experimental/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 experimental/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 experimental/source/Sources.gz
+ 92c5d1178542788f8f4ba0505447b6877f7c14dc 79 experimental/source/Release
+SHA256:
+ b428e240f7989edb9c968f4cf3c7973885477760451c1fb0c7ea8c965309119e 52205 experimental/binary-amd64/Packages
+ 48ad18f697827a7e2b06c4b8feda14d078b4586f8b6d8cd5712bde42a6e70101 13879 experimental/binary-amd64/Packages.gz
+ 5b1e43e3c0bf4df427404286dbb7fc182c2899b2db69c266c58e5b85e1c0ed21 78 experimental/binary-amd64/Release
+ f2cc59d179ab2c5d84049aac0786b5730f07ef8ddf0ec274662fed4b7162dc2a 1792 experimental/binary-arm64/Packages
+ caed21a1f8bef85f4463f8c99cc3151b84df87f87aeabee8d21808b07f515dbe 896 experimental/binary-arm64/Packages.gz
+ 3d2cdc91bf2cd7ef3397803879245aa0d5ab32d7fe2a05abd1bc9a7f8ddb3a3d 78 experimental/binary-arm64/Release
+ f2cc59d179ab2c5d84049aac0786b5730f07ef8ddf0ec274662fed4b7162dc2a 1792 experimental/binary-i386/Packages
+ caed21a1f8bef85f4463f8c99cc3151b84df87f87aeabee8d21808b07f515dbe 896 experimental/binary-i386/Packages.gz
+ 546c3f30eebc69dece1e5797d921e7e331cdae9eb300ecff47005240af438834 77 experimental/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 experimental/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 experimental/source/Sources.gz
+ 68169048bb5c5f51752386a2b3a4c9bb57e05b656d10df6a79b6c51edbf162f2 79 experimental/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEgICxABKD13V2A4uhdvRW2uJNvhQFAmdLQF4ACgkQdvRW2uJN
+vhQ/wQ//eLR/VrRR+TxWMJDid7bcj0bfELkGe0pj55OFw6l6zpO6X+LsWuN5+Srh
+LFdIn+g1jSn0HSoYVumgTWwijIFV5R+rKgMpSQUB73EJLXpXHNhVI6oxmO3Kc7XT
+PdqanhoAIJmNhHN2LW5vejMwOiMLUNaG94aOLC2hcnwwNjFDhXUSx3qbVcCKv/Jq
+tBA29P8JFo7P+47yqN8wHmtqX8Sn0KRHjIgbOUgICQ/1P+2ZrttGMPTCVo4Gzojo
+0L9eVB8tNAM3VXzchgzhH974KxJeWxMFcWP7wXwTdyQVk8GN1oJ4scGwMCbAk9k8
+aEMnA1JZCT0JGH4XWkn1DcQpH5WLrSobDEmUlKtIyk3JvzQiwmW0G9ji87xPgxVw
+gY9c81TGgwajjIpL0iPNnLu0nsKj35b/0Dao2Oc/wBuB4EU85KUrfcu32ngxP8Ph
+dPK3sBD5AKYcJ88hpnZWb+0NzsGwTTJEsd2QulaRva7nlFBrYFbThMU/MYNk3uh5
+rOOwt8LVuo8cdq2hPmMTx1UaIbIxCwNzon3QfapUH+6dossvN6oxXQKXpflPJQAq
+kRHGlREuk/p/FtOGrR2PA3N5c11Fh9AVwa6Ry96pBOsQ1KomvKjB4IlzrGUBiHKr
+IuwpBGndRFvGIYaTPbNXdj0QB58wFIE2ZYW0m47oS1bXtQnm1Lo=
+=Kw7Y
+-----END PGP SIGNATURE-----
